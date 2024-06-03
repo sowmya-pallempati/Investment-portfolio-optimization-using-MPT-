@@ -29,10 +29,12 @@ In this section, we establish an optimization model to allocate investments acro
 ![image](https://github.com/sowmya-pallempati/Investment-portfolio-optimization-using-MPT-/assets/112984551/536077de-211d-4f87-9de7-0bf2400373d2)
 
 **Buy & Hold Strategy for MPT Portfolio Allocation**
+
 Calculating how much money to invest in each stock of the portfolio, making sure to spread out the investment evenly according to the MPT allocation.
 Then, we are printing out the allocated amounts for each stock, ensuring a balanced investment strategy.
 
 **Buy & Hold Strategy Performance for MPT Stock Allocation Strategy**
+
 **Volatility:** The strategy experienced significant volatility, with monthly returns ranging from -0.1044 to 0.1257.
 
 **Positive and Negative Months:** There were 5 months with positive returns and 5 months with negative returns.
@@ -42,6 +44,7 @@ Then, we are printing out the allocated amounts for each stock, ensuring a balan
 **Cumulative Return:** Over the entire period, the strategy returned 25.67% (from 89558.054876 to 112569.367303).
 
 **Buy & Hold strategy for the S&P 500 index (^GSPC)**
+
 Retrieving the adjusted close prices of the S&P 500 index to analyze its performance during the specified period.
 This data allows us to assess how investing in the S&P 500 index would have performed over the given timeframe, facilitating comparisons with other investment strategies.
 
@@ -71,6 +74,7 @@ However, it's crucial to consult with a financial advisor and conduct thorough r
 Investing in stocks with a high probability of losing money carries a higher risk of loss compared to others in the portfolio.
 
 **Based on the Monte Carlo simulation results, we can say that:**
+
 **Overall Portfolio Risk:** The probability of the portfolio losing money is relatively low, at 3.8% (0.038). 
 This suggests that the portfolio has a high likelihood of generating positive returns.
 
